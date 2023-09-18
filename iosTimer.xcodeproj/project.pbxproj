@@ -10,6 +10,7 @@
 		AE7395992AB15191000BF363 /* TimePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7395982AB15191000BF363 /* TimePickerView.swift */; };
 		AE73959D2AB15550000BF363 /* StartButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE73959C2AB15550000BF363 /* StartButtonStyle.swift */; };
 		AE73959F2AB28309000BF363 /* CircularProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE73959E2AB28309000BF363 /* CircularProgressView.swift */; };
+		AE7395A12AB28425000BF363 /* IntExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7395A02AB28425000BF363 /* IntExtension.swift */; };
 		AE9A713B2AB1503500FCBC39 /* iosTimerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A713A2AB1503500FCBC39 /* iosTimerApp.swift */; };
 		AE9A713D2AB1503500FCBC39 /* TimerMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A713C2AB1503500FCBC39 /* TimerMainView.swift */; };
 		AE9A713F2AB1503600FCBC39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE9A713E2AB1503600FCBC39 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		AE7395982AB15191000BF363 /* TimePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimePickerView.swift; sourceTree = "<group>"; };
 		AE73959C2AB15550000BF363 /* StartButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonStyle.swift; sourceTree = "<group>"; };
 		AE73959E2AB28309000BF363 /* CircularProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressView.swift; sourceTree = "<group>"; };
+		AE7395A02AB28425000BF363 /* IntExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntExtension.swift; sourceTree = "<group>"; };
 		AE9A71372AB1503500FCBC39 /* iosTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE9A713A2AB1503500FCBC39 /* iosTimerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosTimerApp.swift; sourceTree = "<group>"; };
 		AE9A713C2AB1503500FCBC39 /* TimerMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerMainView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				AE9A71402AB1503600FCBC39 /* Preview Content */,
 				AE73959C2AB15550000BF363 /* StartButtonStyle.swift */,
 				AE73959E2AB28309000BF363 /* CircularProgressView.swift */,
+				AE7395A02AB28425000BF363 /* IntExtension.swift */,
 			);
 			path = iosTimer;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				AE7395992AB15191000BF363 /* TimePickerView.swift in Sources */,
 				AE73959F2AB28309000BF363 /* CircularProgressView.swift in Sources */,
 				AE9A713B2AB1503500FCBC39 /* iosTimerApp.swift in Sources */,
+				AE7395A12AB28425000BF363 /* IntExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
